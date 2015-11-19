@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<head>
+<![CDATA[{*
+
+/**
+ * PENGUIN FrameWork
+ * @author hungtd <tdhungit@gmail.com> 0972014011
+ * @copyright Tran Dinh Hung 2011
+ * 
+ * ##DESCRIPTION##
+ * 
+ * @package PenguinFW
+ * @subpackage ##MODULE##
+ * @version 1.0.0
+ */
+
+*}
+]]>
+</head>
+
+<divHeading>
+<![CDATA[
+<div class="heading">
+    <h1>{lang('##TITLE##')}</h1>
+
+    <div class=buttons>
+        <a href="{base_url()}users/admin_users/edit/{$##EDITMODULE##->id}" class="button"><span>{lang('Edit')}</span></a>
+    </div>
+</div>
+]]>
+</divHeading>
+
+<divContent>
+<![CDATA[
+<div class="content">
+    <table class="list">
+        <tbody>
+            ##CONTENT##
+        </tbody>
+    </table>
+</div>
+]]>    
+</divContent>
+
+<trField>
+<![CDATA[
+            <tr>
+                <td class="left head">{get_label('##FIELD##')}</td>
+                <td class="left">{pg_field_value($##EDITMODULE##->##FIELD##, '##FIELDTYPE##')}</td>
+            </tr>
+]]>    
+</trField>
+
+</root>

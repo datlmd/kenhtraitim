@@ -1,0 +1,1 @@
+{include file="../basic_view/upload_photo.tpl"}

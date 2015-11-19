@@ -1,0 +1,142 @@
+
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table.form tr td:first-child {
+    width: 200px;
+}
+
+.form {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.form > * > * > td {
+    padding: 10px;
+    color: black;
+    border-bottom: 1px dotted #CCC;
+}
+
+.required {
+    color: red;
+    font-weight: bold;
+}
+
+.line { padding: 5px 0; border-bottom: 1px solid #EEEEEE; }
+
+.list {
+    border-collapse: collapse;
+    width: 100%;
+    border-top: 1px solid #DDD;
+    border-left: 1px solid #DDD;
+    margin-bottom: 20px;
+}
+
+.list td {
+    border-bottom: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+
+/*.list td img { max-width: 200px; }*/
+
+.list thead td {
+    background-color: #EFEFEF;
+    padding: 0px 5px;
+}
+
+.list thead td a, .list thead td {
+    text-decoration: none;
+    color: #222;
+    font-weight: bold;
+}
+
+.list tbody tr:nth-child(even) {
+    background: #EDEEF9;
+}
+
+.list tbody tr:nth-child(odd) {
+    background: white;
+}
+
+.list tbody td.head {
+    font-weight: 700;
+    color: #222;
+}
+
+.list tbody tr:hover {
+    background: #FFFFDF;
+}
+
+.list .left {
+    padding: 7px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.list .right {
+    padding: 7px;
+    text-align: right;
+    vertical-align: top;
+}
+
+.list .center {
+    padding: 7px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.list .action {
+    padding: 2px 5px;
+}
+
+.page_break { page-break-before: always;}
+
+.kpis { float: left; width: 100%;}
+
+.kpi { width: 33%; height: 200px; float: left;}
+
+.process_chart_div { height: 200px; width: 1050px; float: left;}
+
+.process_chart_td { width: 1050px; height: 200px;}
+
+.filter td {
+    padding: 10px 0 0 10px;
+    background: #E7EFEF;
+}
+
+table.filter {
+    width: 100%;
+    background: #E7EFEF;
+    border: 1px solid #C6D7D7;
+    margin-bottom: 15px;
+    margin-top: 15px;
+/*    padding: -5px 0 0 5px;*/
+/*    line-height: 0px;*/
+    
+}
+
+.data_div { float: left; width: 100%;}

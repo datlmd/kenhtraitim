@@ -1,0 +1,30 @@
+/******General color******/
+.wrapper{
+	background:#E4EFEF !important;  
+}
+.wrapper h1{
+    color: #9966ff !important;
+}
+.wrapper p,h2,h3,h4{
+	color:#333;
+}
+.wrapper h2,h3,h4{
+    color:#9900cc !important;
+}
+/******End General color******/
+
+/*****Menu*****/
+.menu{background: #ccccff !important;}
+.menu .active{background:#cc99ff !important;}
+.menu .nav-item a:hover{background:#96C !important;}
+/*****End Menu*****/
+
+/*****Title*****/
+.title{background: #ccccff !important;}
+.title span{color:#ffffff !important;}
+/*****End Title*****/
+
+/*****Button*****/
+.button{background:#ccccff !important; border-radius: 5px;}
+.button:hover{ background:#96C !important;}
+/*****End Button*****/

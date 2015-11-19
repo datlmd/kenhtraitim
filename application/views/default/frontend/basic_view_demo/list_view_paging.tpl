@@ -1,0 +1,1 @@
+{include file="../basic_view/elements/list_view_paging.tpl"}

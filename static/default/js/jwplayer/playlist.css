@@ -1,0 +1,7 @@
+.jw_playlist_playlist .jw_playlist_item {
+    padding: 3px 5px;
+}
+
+.jw_playlist_playlist .playing {
+    background: #ddd;
+}

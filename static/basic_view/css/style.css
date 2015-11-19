@@ -1,0 +1,159 @@
+#basic_list {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 0px;
+}
+
+/*---------center_content----------*/
+#center_content {
+    /*width:585px;*/
+    width: 980px;
+    float: left;
+    padding: 5px 10px;
+}
+
+/*---------prod_box----------*/
+.prod_box {
+    width: 160px;
+    height: auto;
+    float: left;
+    padding: 10px 10px 10px 11px;
+}
+
+.content_box {
+    width: 160px;
+    height: auto;
+    float: left;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid #0000ff;
+}
+
+/*---------basic_form----------*/
+.basic_form {
+    width: 400px;
+    display: block;
+    float: left;
+}
+
+.basic_form input {
+    float: right;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.basic_form select {
+    width: 130px;
+}
+
+.basic_form ul {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.basic_form li {
+    overflow: hidden;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.basic_form li h3{
+    float: left;
+    width: 200px;
+    margin: 20px 0 20px 0;
+}
+
+.basic_form li label {
+    float: left;
+    text-align: right;
+    width: 110px;
+    padding-right: 20px;
+    line-height: 30px;
+    font-family: "utm_avoregular", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.basic_form li input {
+    float: left;
+    width: 250px;
+    border: none;
+    background: #d7d7d7;
+    height: 20px;
+    padding: 6px 5px;
+}
+
+.captcha {
+    width: 260px;
+    float: left;
+    overflow: hidden;
+}
+
+.captcha img {
+    float: left;
+}
+
+.basic_right_li {
+    width: 265px;
+    float: left;
+    overflow: hidden;
+}
+
+.basic_register_error{
+    clear: both;
+    float: left;
+    height: 20px;
+    width: 260px;
+
+}
+.basic_register_error p{
+    margin: 2px 0 0 0;
+    line-height: 13px;
+    font-size: 13px;
+    color: #ff0000;
+}
+.flash_message {
+    margin: 2px 0 0 0;
+    line-height: 13px;
+    font-size: 13px;
+    color: #ff0000;
+}
+
+.basic_remember_li{
+    width: 280px;
+    margin-bottom: 10px;
+    float: right;
+}
+.basic_remember_li p{
+    float: left;
+    margin: 0;
+}
+#basic_remember{
+    margin: 0;
+    width: 20px;
+    float: left;
+
+}
+
+.basic_info_right{
+    float: left;
+    width: 260px;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.basic_info_right p{
+    margin: 0;
+    line-height: 30px;
+    font-family: "utm_avoregular", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}

@@ -1,0 +1,349 @@
+
+.modal button.close {
+    display:block;
+    position:absolute;
+    top:-30px;
+    right:-46px;
+    background:url(../img/main_sprites.png) -296px 0 no-repeat;
+    width:48px;
+    height:48px;
+    cursor:pointer;
+    border:0;
+}
+
+.modal-header {
+    position:relative;
+    margin-bottom:28px;
+    padding:0 50px;
+}
+
+.modal-header h2 {
+    height:48px;
+    margin-top:20px;
+    line-height:48px;
+    padding-bottom:15px;
+    color:#333;
+    font-size:1.5em;
+    font-weight:600;
+    text-transform:uppercase;
+    border-bottom:1px solid #bcbec0;
+    text-align:center;
+}
+
+.modal-header button.close {
+    display:block;
+    position:absolute;
+    top:-46px;
+    right:-46px;
+    background:url(../img/main_sprites.png) -296px 0 no-repeat;
+    width:48px;
+    height:48px;
+    cursor:pointer;
+    border:0;
+    outline:0;
+}
+
+.modal-body {
+    border-radius:0 0 8px 8px;
+    -moz-border-radius:0 0 8px 8px;
+    -webkit-border-radius:0 0 8px 8px;
+    margin:0 0 40px;
+    padding:0 50px;
+}
+
+.modal-body .list-login a {
+    display:block;
+    background-image:url(../img/main_sprites.png);
+    background-repeat:no-repeat;
+    width:296px;
+    height:48px;
+    margin-bottom:15px;
+    text-indent:-9999px;
+}
+
+.modal-body .list-login a.login-facebook {
+    background-position:0 -48px;
+}
+
+.modal-body .list-login a.login-google {
+    background-position:0 -96px;
+}
+
+.modal-footer {
+    text-align:center;
+    margin:20px 0;
+}
+
+.modal-footer .btn-done {
+    display:inline-block;
+    background-color:#fd0;
+    width:130px;
+    height:34px;
+    margin-right:5px;
+    color:#000;
+    line-height:34px;
+    text-align:center;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    cursor:pointer;
+    border-radius:6px 6px 6px 6px;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px 6px 6px 6px;
+}
+
+.modal-footer .btn-cancel {
+    display:inline-block;
+    background-color:#666;
+    width:130px;
+    height:34px;
+    color:#fff;
+    line-height:34px;
+    text-align:center;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    cursor:pointer;
+    border-radius:6px 6px 6px 6px;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px 6px 6px 6px;
+}
+
+#popup-alert .modal-body .alert {
+    margin:0 0 20px;
+}
+
+#popup-crop .modal-header,#popup-crop .modal-body {
+    padding:0 20px;
+}
+
+#popup-crop .modal-body {
+    font-size:87.5%;
+}
+
+#popup-crop .btn-fake .fileUpload {
+    position:relative;
+    overflow:hidden;
+    display:block;
+    background-color:#333;
+    width:130px;
+    height:34px;
+    color:#fff;
+    line-height:34px;
+    text-align:center;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    cursor:pointer;
+    border-radius:6px 6px 6px 6px;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px 6px 6px 6px;
+    border:1px solid #333;
+}
+
+#popup-crop .btn-fake .fileUpload span {
+    display:block;
+    width:130px;
+    height:34px;
+    line-height:34px;
+    color:#fff;
+    font-size:1em;
+    font-weight:400;
+    text-align:center;
+    text-transform:uppercase;
+}
+
+#popup-crop .btn-fake .fileUpload:hover {
+    background-color:#fff;
+    filter:alpha(opacity=85);
+    -moz-opacity:0.85;
+    -khtml-opacity:0.85;
+    opacity:0.85;
+    border:1px solid #333;
+}
+
+#popup-crop .btn-fake .fileUpload:hover span {
+    color:#333;
+}
+
+#popup-crop .btn-fake .fileUpload input.upload {
+    position:absolute;
+    top:0;
+    right:0;
+    width:130px;
+    height:34px;
+    font-size:1em;
+    cursor:pointer;
+    opacity:0;
+    filter:alpha(opacity=0);
+    margin:0;
+    padding:0;
+}
+
+#popup-crop .left-part {
+    float:left;
+    width:335px;
+    margin-right:20px;
+}
+
+#popup-crop .left-part h4 {
+    font-weight:700;
+    color:#000;
+}
+
+#popup-crop .left-part .tips,#popup-crop .left-part .note {
+    margin-bottom:10px;
+    font-size:.929em;
+    color:#666;
+}
+
+#popup-crop .left-part .img-preview {
+    display:block;
+    width:335px;
+    height:335px;
+    margin-bottom:10px;
+    border:1px dashed #ccc;
+}
+
+#popup-crop .right-part {
+    float:left;
+    width:450px;
+}
+
+#popup-crop .right-part .img-crop {
+    display:block;
+    width:450px;
+    min-height:525px;
+    border:1px dashed #ccc;
+}
+
+#url-popup .modal-content {
+    border-radius:10px!important;
+    -moz-border-radius:10px!important;
+    -webkit-border-radius:10px!important;
+    overflow:hidden!important;
+}
+
+.login-iframe {
+    margin:40px;
+}
+
+.login-loading {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:95px;
+    background:#000;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity:0.5;
+    opacity:0.5;
+}
+
+.login-loading-otr {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:65px;
+    padding-top:30px;
+}
+
+.alert {
+    padding: 10px;
+    margin: 0 20px 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 0.857em;
+    text-align: center;
+}
+
+.alert h4 {
+    margin-top: 0;
+    color: inherit;
+}
+
+.alert a {
+    color: #06c;
+    text-decoration: underline;
+}
+
+.alert .alert-link {
+    font-weight: bold;
+}
+
+.alert>p,.alert>ul {
+    margin-bottom: 0;
+}
+
+.alert>p+p {
+    margin-top: 5px;
+}
+
+.alert-dismissable {
+    padding-right: 35px;
+}
+
+.alert-dismissable .close {
+    position: relative;
+    top: -2px;
+    right: -21px;
+    color: inherit;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.alert-success hr {
+    border-top-color: #c9e2b3;
+}
+
+.alert-success .alert-link {
+    color: #2b542c;
+}
+
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.alert-info hr {
+    border-top-color: #a6e1ec;
+}
+
+.alert-info .alert-link {
+    color: #245269;
+}
+
+.alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+
+.alert-warning hr {
+    border-top-color: #f7e1b5;
+}
+
+.alert-warning .alert-link {
+    color: #66512c;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.alert-danger hr {
+    border-top-color: #e4b9c0;
+}
+
+.alert-danger .alert-link {
+    color: #843534;
+}

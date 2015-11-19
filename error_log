@@ -1,0 +1,32 @@
+[19-Apr-2015 11:34:11 Asia/Saigon] PHP Fatal error:  Call to a member function getTitle() on a non-object in /home/ken701da/public_html/application/modules/films/controllers/admin_films.php on line 169
+[19-Apr-2015 12:40:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:26 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 12:40:26 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:11:53 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:17 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 13:19:17 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Modules in /home/ken701da/public_html/application/modules/modules/controllers/modules.php on line 29
+[19-Apr-2015 15:06:29 Asia/Saigon] PHP Fatal error:  Function name must be a string in /home/ken701da/public_html/application/modules/films/controllers/admin_films.php on line 201
+[23-Apr-2015 10:05:12 Asia/Saigon] ERROR - Error making libcurl request(https://api.login.yahoo.com/oauth/v2/get_request_token): Failed to connect to 10.30.46.99 port 3128: Connection timed out
+[23-Apr-2015 10:05:12 Asia/Saigon] ERROR - OAuth call to get request token failed
+[23-Apr-2015 10:05:12 Asia/Saigon] ERROR - Failed to create request token
+[27-Apr-2015 13:06:00 Asia/Saigon] ERROR - Error making libcurl request(https://api.login.yahoo.com/oauth/v2/get_request_token): Failed to connect to 10.30.46.99 port 3128: Connection timed out
+[27-Apr-2015 13:06:00 Asia/Saigon] ERROR - OAuth call to get request token failed
+[27-Apr-2015 13:06:00 Asia/Saigon] ERROR - Failed to create request token
+[28-Apr-2015 09:46:18 Asia/Saigon] ERROR - Error making libcurl request(https://api.login.yahoo.com/oauth/v2/get_request_token): Failed to connect to 10.30.46.99 port 3128: Connection timed out
+[28-Apr-2015 09:46:18 Asia/Saigon] ERROR - OAuth call to get request token failed
+[28-Apr-2015 09:46:18 Asia/Saigon] ERROR - Failed to create request token

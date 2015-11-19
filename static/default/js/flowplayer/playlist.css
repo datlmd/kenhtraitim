@@ -1,0 +1,3 @@
+#IdMusicPlayer object { min-height: 100px; }
+
+.playing, .paused, .progress { background: #dddddd; display: block !important; }

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<head>
+<![CDATA[{*
+
+/**
+ * PENGUIN FrameWork
+ * @author hungtd <tdhungit@gmail.com> 0972014011
+ * @copyright Tran Dinh Hung 2011
+ * 
+ * ##DESCRIPTION##
+ * 
+ * @package PenguinFW
+ * @subpackage ##MODULE##
+ * @version 1.0.0
+ */
+
+*}
+]]>
+</head>
+    
+<divHeading>
+<![CDATA[
+<div class="heading">
+    <h1>{lang('##TITLE##')}</h1>
+
+    <div class=buttons>
+        <a href="javascript:void(0)" onClick="$('###FORMID##').submit();" class="button"><span>{lang('Edit')}</span></a>
+    </div>
+</div>
+]]>
+</divHeading>
+    
+<divContent>
+<![CDATA[
+<div class="content">
+    {validation_errors()}
+    
+    ##CONTENT##
+</div>
+]]>
+</divContent>
+
+<Form>
+<![CDATA[
+    <form action="" method="post" id="##FORMID##">
+        <input type="hidden" name="id" value="{$data_edit->id}" />
+        <table class="list">
+            <tbody>            
+                ##FIELDADD##            
+            </tbody>
+        </table>
+    </form>
+]]>
+</Form>
+
+<fieldText>
+<![CDATA[
+                <tr>
+                    <td class="left">{get_label('##FIELDNAME##')}</td>
+                    <td class="left"><input type="##FIELD_TYPE##" name="##FIELDNAME##" value="{$##MODULE##->##FIELDNAME##}" /></td>
+                </tr>
+]]>
+</fieldText>
+
+<fieldSelect>
+<![CDATA[
+                <tr>
+                    <td class="left">{get_label('##FIELDNAME##')}</td>
+                    <td class="left">
+                        <select name="##FIELDNAME##">
+                            <option value="">{lang('All')}</option>
+                            {foreach $##VALUES## as $##VALUE##}
+                                <option value="{$##VALUE##.id}" {if $##MODULE##->##FIELDNAME## eq $##VALUE##.id}selected{/if}>{lang($##VALUE##.name)}</option>
+                            {/foreach}
+                        </select>
+                    </td>
+                </tr>
+]]>
+</fieldSelect>
+
+<fieldArea>
+<![CDATA[
+                <tr>
+                    <td class="left">{get_label('##FIELDNAME##')}</td>
+                    <td class="left"><textarea name="##FIELDNAME##">{$data_edit->##FIELDNAME##}</textarea></td>
+                </tr>
+]]>    
+</fieldArea>
+
+</root>

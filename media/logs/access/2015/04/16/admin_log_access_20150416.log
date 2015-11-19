@@ -1,0 +1,262 @@
+16/04/2015 11:14:28:	{"username":"admin","module":"users","class":"admin_users","action":"dashboard","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 11:14:30:	{"username":"admin","module":"users","class":"admin_users","action":"dashboard","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 11:57:58:	{"username":"admin","module":"films","class":"admin_films","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 11:58:02:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 11:58:03:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 11:58:03:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 11:59:12:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:02:07:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:02:08:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:02:08:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:06:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"1","name":"Phim l\u1ebb","slug":"phim-le","description":"","parent_id":"0","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:06:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:06:50:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:06:50:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:06:51:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:03:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"2","name":"Phim b\u1ed9","slug":"phim-bo","description":"","parent_id":"0","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:07:03:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:07:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":{"name":""},"ip":"::1"}>>>>>
+16/04/2015 12:07:13:	{"username":"admin","module":"custom_fields","class":"admin_custom_field_names","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:16:	{"username":"admin","module":"custom_fields","class":"admin_custom_fields","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/custom_fields\/admin_custom_field_names\/index\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:07:21:	{"username":"admin","module":"custom_fields","class":"admin_custom_fields","action":"edit","post_params":{"cfn_id":"18","resource_id":"32","cfn_name":"Default","field_choose":["161","162","164","167"]},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:22:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:25:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:25:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:07:25:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:45:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Phim  3D","slug":"phim-3d","description":"","parent_id":"0","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:07:46:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:08:19:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:08:20:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:08:20:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:09:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Kinh d\u1ecb","slug":"kinh-di","description":"","parent_id":"0","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:09:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:21:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:10:22:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:10:22:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:25:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"4","name":"Kinh d\u1ecb","slug":"kinh-di","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:10:25:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:29:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:30:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:10:30:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:59:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Ho\u1ea1t h\u00ecnh","slug":"phim-hoat-hinh","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:10:59:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:02:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:11:03:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:11:03:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:08:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"4","name":"Kinh d\u1ecb","slug":"phim-kinh-di","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:11:08:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:14:	{"username":"admin","module":"custom_fields","class":"admin_custom_field_names","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:15:	{"username":"admin","module":"custom_fields","class":"admin_custom_fields","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/custom_fields\/admin_custom_field_names\/index\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:11:24:	{"username":"admin","module":"custom_fields","class":"admin_custom_fields","action":"edit","post_params":{"cfn_id":"18","resource_id":"32","cfn_name":"Default","field_choose":["161","162","164","209","166","167"]},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:24:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:29:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:30:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:11:30:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:44:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"H\u00e0nh \u0111\u1ed9ng","slug":"phim-hanh-dong","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:11:44:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:19:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:20:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:12:20:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:49:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Vi\u1ec5n t\u01b0\u1edfng","slug":"phim-vien-tuong","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:49:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:52:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:12:53:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:12:53:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:13:13:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"V\u00f5 thu\u1eadt","slug":"phim-vo-thuat","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:13:14:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:13:32:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:13:33:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:13:33:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"H\u00ecnh s\u1ef1 - T\u1ed9i ph\u1ea1m","slug":"phim-hinh-su-toi-pham","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:15:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:15:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:14:15:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:32:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Chi\u1ebfn tranh","slug":"phim-chien-tranh","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:33:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:41:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:14:41:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:14:41:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:15:17:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"H\u00e0i h\u01b0\u1edbc","slug":"phim-hai-huoc","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:15:17:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:15:20:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:15:21:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:15:21:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:16:01:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Kinh di\u1ec3n","slug":"phim-kinh-dien","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:16:02:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:16:46:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:16:47:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:16:47:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:16:48:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:17:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:17:48:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:17:48:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:12:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"T\u00e2m l\u00fd","slug":"phim-tam-ly","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:12:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:18:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:19:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:18:19:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:39:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"T\u00ecnh c\u1ea3m","slug":"phim-tinh-cam","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:39:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:48:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:18:49:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:18:49:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:19:28:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"\u00c2m nh\u1ea1c","slug":"phim-am-nhac","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:19:28:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:21:26:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:21:27:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:21:27:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:21:44:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"7","name":"Khoa h\u1ecdc ci\u1ec5n t\u01b0\u1edfng","slug":"phim-khoa-hoc-vien-tuong","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:21:45:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:23:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:23:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:23:09:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:23:09:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:23:15:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"7","name":"Khoa h\u1ecdc vi\u1ec5n t\u01b0\u1edfng","slug":"phim-khoa-hoc-vien-tuong","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:23:15:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:17:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:18:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:34:18:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:35:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"L\u1ecbch s\u1eed","slug":"phim-lich-su","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:36:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:41:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:42:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:34:42:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:57:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Gia \u0111\u00ecnh","slug":"phim-gia-dinh","description":"","parent_id":"1","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:34:58:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:02:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:03:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:38:03:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:27:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"\u00c2u M\u1ef9","slug":"phim-bo-au-my","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:27:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:33:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:38:33:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:38:33:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:13:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"H\u1ed3ng K\u00f4ng","slug":"phim-bo-hong-kong","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:13:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:18:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:18:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:39:19:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:37:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Trung Qu\u1ed1c","slug":"phim-bo-trung-quoc","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:37:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:40:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:39:40:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:39:40:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:14:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"H\u00e0n Qu\u1ed1c","slug":"phim-bo-han-quoc","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:14:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:17:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:17:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:40:17:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:32:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Th\u00e1i Lan","slug":"phim-bo-thai-lan","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:40:32:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:42:32:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:42:32:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:42:32:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:42:55:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"8","name":"V\u00f5 thu\u1eadt - Phi\u00eau l\u01b0u","slug":"phim-vo-thuat-phieu-luu","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:42:55:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:43:16:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:43:17:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:43:17:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:43:28:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"16","name":"L\u1ecbch s\u1eed - C\u1ed5 trang","slug":"phim-lich-su-co-trang","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:43:28:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:43:45:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:43:46:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:43:46:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:44:03:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"15","name":"Gi\u1ea3i tr\u00ed - \u00c2m nh\u1ea1c","slug":"phim-giai-tri-am-nhac","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:44:03:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:45:06:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:45:07:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:45:07:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:45:25:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"6","name":"H\u00e0nh \u0111\u1ed9ng - Phi\u00eau l\u01b0u","slug":"phim-hanh-dong-phieu-luu","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:45:25:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:45:57:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:45:58:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:45:58:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:46:06:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"8","name":"V\u00f5 thu\u1eadt","slug":"phim-vo-thuat","description":"","parent_id":"1","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:46:06:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:47:47:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:47:47:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:47:47:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:48:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"edit","post_params":{"id":"21","name":"H\u00e0n - Nh\u1eadt","slug":"phim-bo-han-nhat","description":"","parent_id":"2","weight":"0","meta_keyword":"","meta_description":""},"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/musics\/admin_music_categories"},"ip":"::1"}>>>>>
+16/04/2015 12:48:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:20:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:20:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:49:21:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:39:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"C\u00e1c n\u01b0\u1edbc kh\u00e1c","slug":"phim-bo-cac-nuoc-khac","description":"","parent_id":"2","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:39:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:53:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:49:53:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:49:54:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:50:20:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Kh\u00e1c","slug":"the-loai-khac","description":"","parent_id":"0","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:50:21:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:50:22:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:50:22:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:50:22:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:51:31:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Phim chi\u1ebfu r\u1ea1p","slug":"phim-chieu-rap","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:51:31:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:51:34:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:51:34:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:51:34:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:52:36:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Phim \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eed","slug":"phim-duoc-de-cu","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:52:36:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:31:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:31:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:53:31:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:48:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"T\u00e0i li\u1ec7u","slug":"phim-tai-lieu","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:48:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:50:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:53:50:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:53:50:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:54:05:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"Th\u1ec3 thao","slug":"phim-the-thao","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:54:05:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:54:07:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:54:07:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:54:07:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:55:14:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"T\u00e2m l\u00fd x\u00e3 h\u1ed9i","slug":"phim-tam-ly-xa-hoi","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:55:14:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:55:39:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:55:39:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:55:40:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:56:27:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"\u0110i\u1ec1u tra","slug":"phim-dieu-tra","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:56:27:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:56:46:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:56:47:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 12:56:47:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:57:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"add","post_params":{"name":"C\u1ed5 trang","slug":"phim-co-trang","description":"","parent_id":"24","weight":"","meta_keyword":"","meta_description":""},"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:57:09:	{"username":"admin","module":"musics","class":"admin_music_categories","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:58:37:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:58:37:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:58:37:	{"username":"admin","module":"frontend","class":"frontend","action":"single.html","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 12:58:37:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 13:01:51:	{"username":"admin","module":"films","class":"admin_films","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:06:22:	{"username":"admin","module":"films","class":"admin_films","action":"edit","post_params":[],"get_params":{"ReturnUrl":"http:\/\/localhost:8080\/2015\/film\/films\/admin_films"},"ip":"::1"}>>>>>
+16/04/2015 14:06:29:	{"username":"admin","module":"films","class":"admin_films","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:07:38:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:07:39:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 14:07:39:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:09:12:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:09:12:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 14:09:12:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:11:36:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:11:37:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 14:11:37:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:16:16:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:16:17:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 14:16:17:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:23:18:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 14:23:19:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 14:23:19:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 16:14:42:	{"username":"admin","module":"films","class":"admin_films","action":"add","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 16:14:43:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":{"t":"D2LI"},"ip":"::1"}>>>>>
+16/04/2015 16:14:43:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:09:	{"username":"admin","module":"films","class":"films","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"frontend","class":"frontend","action":"static","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:10:	{"username":"admin","module":"errors","class":"errors","action":"error_404","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:17:14:	{"username":"admin","module":"frontend","class":"frontend","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:58:09:	{"username":"admin","module":"frontend","class":"frontend","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
+16/04/2015 17:58:21:	{"username":"admin","module":"frontend","class":"frontend","action":"index","post_params":[],"get_params":[],"ip":"::1"}>>>>>
