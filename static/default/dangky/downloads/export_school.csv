@@ -1,0 +1,3 @@
+id,created,full_name,last_name,company,email,phone,address,user_type,mssv,id_course,course,id_category,category,id_schedule,schedule
+4,"2015-11-04 03:50:05",ĐẠT,LÊ,,ADMIN3@YAHOO.COM,4325,"39 HÀM NGHI QUẬN 1 TP.HCM",1,DSF4EE,2,"ĐẠI CƯƠNG A2-1 (PRE-INTERMEDIA)",0,,4,"CHIỀU THỨ 2 - CHIỀU THỨ 4"
+5,"2015-11-04 08:29:42",VFV,VDFVSD,,ADMIN@YAHOO.COM,4325,"39 HÀM NGHI QUẬN 1 TP.HCM",0,DSF4,1,"ĐẠI CƯƠNG A1 (ELEMANTARY)",0,,2,"SÁNG THỨ 2 - CHIỀU THỨ 4"

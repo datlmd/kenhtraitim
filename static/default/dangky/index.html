@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Đăng ký</title>
+    <meta name="keywords" content="Đăng ký" />
+    <meta name="description" content="Đăng ký" />
+    <meta name="robots" content="index, follow" />
+    <meta name="revisit-after" content="7 days" />
+    <meta name="author" content="datlm" />
+    <meta name="copyright" content="datlm" />
+    <meta property="og:title" content="Đăng ký" />
+    <meta property="og:description" content="Đăng ký" />
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/register.js"></script> 
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <SCRIPT TYPE="text/javascript">
+      $(document).ready(function() {
+    
+    $('#course_id').change(function() {
+      $('input[name=course]').val($(this).find('option:selected').text());
+      var course_id = $('#course_id').val();
+      if(course_id == 1 || course_id == 2 || course_id == 3){
+        $('#id_schedule').html('');
+        $('#id_schedule').html('<option value="-1">Chọn lịch học</option>');
+        $('#id_schedule').append('<option value="1">Sáng thứ 2 - Sáng thứ 4</option>');
+        $('#id_schedule').append('<option value="2">Sáng thứ 2 - Chiều thứ 4</option>');
+        $('#id_schedule').append('<option value="3">Chiều thứ 2 - Sáng thứ 4</option>');
+        $('#id_schedule').append('<option value="4">Chiều thứ 2 - Chiều thứ 4</option>');
+        $('#id_schedule').append('<option value="5">Sáng thứ 3 - Sáng thứ 5</option>');
+        $('#id_schedule').append('<option value="6">Sáng thứ 3 - Chiều thứ 5</option>');
+        $('#id_schedule').append('<option value="7">Chiều thứ 3 - Sáng thứ 5</option>');
+        $('#id_schedule').append('<option value="8">Chiều thứ 3 - Chiều thứ 5</option>');
+        $('#id_schedule').append('<option value="9">Tối 2 - 4</option>');
+        $('#id_schedule').append('<option value="33">Tối 2 - 6</option>');
+        $('#id_schedule').append('<option value="10">Tối 3 - 5</option>');
+        $('#id_schedule').append('<option value="34">Tối 3 - 7</option>');
+      }
+      if(course_id == 4){
+        $('#id_schedule').html('');
+        $('#id_schedule').html('<option value="-1">Chọn lịch học</option>');
+        $('#id_schedule').append('<option value="11">Tối 2 - 6</option>');
+        $('#id_schedule').append('<option value="12">Tối 4 - 6</option>');
+        $('#id_schedule').append('<option value="13">Tối 3 - 5</option>');
+        $('#id_schedule').append('<option value="14">Tối 5 - 7</option>');
+      }
+      if(course_id == 5){
+        $('#id_schedule').html('');
+        $('#id_schedule').html('<option value="-1">Chọn lịch học</option>');
+        $('#id_schedule').append('<option value="15">Sáng 2 - 4</option>');
+        $('#id_schedule').append('<option value="16">Sáng 4 - 6</option>');
+        $('#id_schedule').append('<option value="17">Sáng 3 - 5</option>');
+        $('#id_schedule').append('<option value="18">Sáng 5 - 7</option>');
+        $('#id_schedule').append('<option value="19">Chiều 2 - 4</option>');
+        $('#id_schedule').append('<option value="20">Chiều 4 - 6</option>');
+        $('#id_schedule').append('<option value="21">Chiều 3 - 5</option>');
+        $('#id_schedule').append('<option value="22">Chiều 5 - 7</option>');
+      }
+      if(course_id == 7 || course_id == 8 ){
+        $('#id_schedule').html('');
+        $('#id_schedule').html('<option value="-1">Chọn lịch học</option>');
+        $('#id_schedule').append('<option value="23">Sáng 2</option>');
+        $('#id_schedule').append('<option value="24">Sáng 3</option>');
+        $('#id_schedule').append('<option value="25">Sáng 4</option>');
+        $('#id_schedule').append('<option value="26">Sáng 5</option>');
+        $('#id_schedule').append('<option value="27">Sáng 6</option>');
+        $('#id_schedule').append('<option value="28">Chiều 2</option>');
+        $('#id_schedule').append('<option value="29">Chiều 3</option>');
+        $('#id_schedule').append('<option value="30">Chiều 4</option>');
+        $('#id_schedule').append('<option value="31">Chiều 5</option>');
+        $('#id_schedule').append('<option value="32">Chiều 6</option>');
+      }
+      return false; 
+    });
+    $('#id_schedule').change(function() {
+      $('input[name=schedule]').val($(this).find('option:selected').text());
+      return false; 
+    });
+    
+});
+
+    </SCRIPT>
+  </head>
+  <body>
+    <div class="container">
+      <form id="frm-dang-ky" class="form-horizontal" role="form" method="post">
+        <h3 style="text-align: center; padding:15px 0;">Đăng kí ghi danh</h1>
+        
+        <div class="form-group">
+          <label for="full_name" class="col-sm-2 control-label">Tên</label>
+          <div class="col-sm-10">
+            <input type="text" class="form-control" id="full_name" name="full_name" placeholder="Nhập tên">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="last_name" class="col-sm-2 control-label">Họ và tên đệm</label>
+          <div class="col-sm-10">
+            <input type="text" class="form-control" id="last_name" name="last_name" placeholder="Nhập họ và tên đệm">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email" class="col-sm-2 control-label">Email</label>
+          <div class="col-sm-10">
+              <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="phone" class="col-sm-2 control-label">Điện thoại</label>
+          <div class="col-sm-10">
+            <input type="text" class="form-control" id="phone" name="phone" onkeypress="return numbersonly(this, event)" maxlength="13" placeholder="Nhập số điện thoại">
+          </div>
+        </div>
+        
+        <div class="form-group">
+          <label for="type_id" class="col-sm-2 control-label">Sinh viên trường</label>
+          <div class="col-sm-10">
+            <select id="type_id" name="type_id" class="form-control">
+                <option value="-1">---Chọn trường---</option>  
+                <option value="0">Sinh viên trường khác</option>
+                <option value="1">Sinh viên trường ĐH Ngân Hàng</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="mssv" class="col-sm-2 control-label">MSSV (hoặc CMND)</label>
+          <div class="col-sm-10">
+            <input type="text" class="form-control" id="mssv" name="mssv" placeholder="Nhập MSSV hoặc CMND nếu học trường khác">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="address" class="col-sm-2 control-label">Địa điểm học</label>
+          <div class="col-sm-10">
+            <select id="address" name="address" class="form-control">
+                <option value="-1">---Chọn địa điểm---</option>  
+                <option value="0">39 Hàm Nghi Quận 1 TP.HCM</option>
+                <option value="1">56 Hoàng Diệu 2 Quận Thủ Đức TP.HCM</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="type_id" class="col-sm-2 control-label">Lớp</label>
+          <div class="col-sm-10">
+            <select id="course_id" name="course_id" class="form-control">
+                <option value="-1">---Chọn khoá học---</option>  
+                <option value="0">Anh văn</option>
+                <option value="1">-- Đại cương A1 (elemantary)</option>
+                <option value="2">-- Đại cương A2-1 (Pre-intermedia)</option>
+                <option value="3">-- B1-1 (tiền b1-1)</option>
+                <option value="4">-- IELTS 3.0 (Hàm Nghi)</option>
+                <option value="5">-- IELTS 3.0 (Hoàng Diệu 2)</option>
+                <option value="6">Tin học</option>
+                <option value="7">-- Tin học trình độ A</option>
+                <option value="8">-- Tin học trình độ B</option>
+            </select>
+            <input type="hidden" class="form-control" id="course" name="course">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="type_id" class="col-sm-2 control-label">Lịch học</label>
+          <div class="col-sm-10">
+            <select id="id_schedule" name="id_schedule" class="form-control">
+                <option value="-1">---Chọn lịch học---</option>  
+            </select>
+            <input type="hidden" class="form-control" id="schedule" name="schedule">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="address" class="col-sm-2 control-label"></label>
+          <div class="col-sm-10" style="font-size:11px">
+            - Lịch học anh văn đại cương( A1, A2-1, B1-1) <br />
+            1. Sáng: 7:30 – 10:30 / 2. Chiều: 13:30 – 16:45 / 3. Tối: 18:00 – 21:00<br/><br/>
+            - Lớp IELTS (39 Hàm Nghi Quận 1 TP.HCM)<br/>
+            1. Sáng: 7:30 – 10:30 / 2. Chiều: 13:30 – 16:45 / 3. Tối: 18:00 – 21:00<br/><br/>
+            - Lớp IELTS (56 Hoàng Diệu 2 Quận Thủ Đức TP.HCM)<br/>
+            1. Sáng: 7:30 – 10:30 / 2. Chiều: 13:30 – 16:45 / 3. Tối: 18:00 – 21:00<br/><br/>
+            - Lịch học tin học<br/>
+            1. Sáng: 7:15 – 10:45 / 2. Chiều 13:15 – 16:45 (1 buổi/tuần)
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-10">
+            <button id="btn-accept" type="button" onclick="javascript:dang_ky();" class="btn btn-success">Hoàn tất</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>
+ 
